@@ -1,0 +1,45 @@
+.movie-card{
+    padding: 15px;
+    width: 280px;
+    height: 602px;
+    margin: 0 auto;
+    background-color: #FCFCFC;
+    box-sizing: border-box;
+    border-radius: 16px;
+    border: solid 1px #CCC;
+    position: relative;
+}
+
+.movie-image{
+    width: 248px;
+    height: 372px;
+    margin: 0 auto;
+    border-radius: 16px;
+}
+
+.movie-title{
+    font-weight: 600;
+    line-height: 27px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.movie-year, .movie-crew{
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 500;
+}
+
+.movie-year{
+    margin: 9px 0;
+}
+
+.movie-crew{
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.movie-card .rating{
+    position: absolute;
+    bottom: 15px;
+}

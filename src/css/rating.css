@@ -1,0 +1,12 @@
+.rating{
+    background-color: #726BEACC;
+    padding: 9px 10px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 80px;
+    box-sizing: border-box;
+    font-weight: 400;
+}
